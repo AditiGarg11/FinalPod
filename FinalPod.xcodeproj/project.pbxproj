@@ -14,6 +14,7 @@
 		4926188B1F32EABB003A8458 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 492618891F32EABB003A8458 /* LaunchScreen.storyboard */; };
 		492618961F32EABC003A8458 /* FinalPodTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 492618951F32EABC003A8458 /* FinalPodTests.swift */; };
 		492618A11F32EABC003A8458 /* FinalPodUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 492618A01F32EABC003A8458 /* FinalPodUITests.swift */; };
+		492618AF1F32EAE8003A8458 /* FantasticView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 492618AE1F32EAE8003A8458 /* FantasticView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		4926189C1F32EABC003A8458 /* FinalPodUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FinalPodUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		492618A01F32EABC003A8458 /* FinalPodUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinalPodUITests.swift; sourceTree = "<group>"; };
 		492618A21F32EABD003A8458 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		492618AE1F32EAE8003A8458 /* FantasticView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FantasticView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				492618801F32EABA003A8458 /* AppDelegate.swift */,
 				492618821F32EABB003A8458 /* ViewController.swift */,
+				492618AE1F32EAE8003A8458 /* FantasticView.swift */,
 				492618841F32EABB003A8458 /* Main.storyboard */,
 				492618871F32EABB003A8458 /* Assets.xcassets */,
 				492618891F32EABB003A8458 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 			files = (
 				492618831F32EABB003A8458 /* ViewController.swift in Sources */,
 				492618811F32EABA003A8458 /* AppDelegate.swift in Sources */,
+				492618AF1F32EAE8003A8458 /* FantasticView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
